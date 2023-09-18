@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrayhan09&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrayhan09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedrayhan09" alt="ahmedrayhan09" /></a> </p>
-
 - 🌱 I’m currently learning **Python and JavaScript**
 
 - 💬 Ask me about **HTML, CSS and Python**
@@ -27,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrayhan09&show_icons=true&locale=en&layout=compact" alt="ahmedrayhan09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedrayhan09&show_icons=true&locale=en" alt="ahmedrayhan09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrayhan09&" alt="ahmedrayhan09" /></p>
