@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Rayhan Ahmed
-#### I am a Python Developer
+#### I am a Python Developer 
+
 ![I am a Python Developer](https://learn.temporal.io/assets/images/banner_python-0d345d125b6892840c54f7e1460c8a5a.png)
 
 A Bangali
@@ -18,4 +19,4 @@ Skills: HtML / CSS / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedrayhan09&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/ahmedrayhan09)  
+ 
