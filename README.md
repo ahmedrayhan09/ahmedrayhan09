@@ -1,8 +1,5 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fsagar-viradiya%2Fsagar-viradiya%2Fmaster%2Fresources%2Fbanner.png&tbnid=1v1zI0gjLFXAqM&vet=12ahUKEwih_8OeurSBAxVjt2MGHWxuCVIQMygBegQIARBb..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAhmedGrati&docid=D661WyBeTR_WtM&w=13616&h=5440&q=cst%20banner%20for%20github&hl=en&ved=2ahUKEwih_8OeurSBAxVjt2MGHWxuCVIQMygBegQIARBb)]
-
 <h1 align="center">Hi 👋, I'm Rayhan Ahmed</h1>
 <h3 align="center">A passionate Python Developer from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrayhan09&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrayhan09" /> </p>
 
